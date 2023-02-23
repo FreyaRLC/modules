@@ -1,5 +1,5 @@
 "use strict";
-import {capitalize, makeSpaces} from "./stringscript.js";
+import {makeSpaces, capitalize} from "./stringscript.js";
 
 // window.addEventListener("DOMContentLoaded", start);
 start();
